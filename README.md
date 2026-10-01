@@ -1,6 +1,6 @@
 > [!important]
-> Repo has been moved to my person GitLab. Issues on GitHub will be ignored.
-> New home: https://git.pyrosfun.com/
+> To create issues / suggestions please use the unified issue tracker:
+> **https://github.com/PyrosFun/IssueTracker**
 
 
 # Tiered Mechs - Rimworld mod
